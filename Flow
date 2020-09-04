@@ -1,0 +1,7 @@
+Flow -- ( Major Steps)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1. Find out the URLs of the webpages for that particular product
+2. Read the webpages.
+3. Find out the prices.
+4. Compare prices, determine the lowest.
+5. Send mail with the lowest, price and URL of that website. 
