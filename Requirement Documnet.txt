@@ -1,0 +1,8 @@
+Requirement Document.
+
+The basic requirement is to go through websites and find the price of the specified product.
+After the price of the product is identified on different websites, comparison will be made
+to find out which website offers the lowest price.
+
+A mail should be triggered with the prices in different websites and the link of the websites
+with the lowest price.
