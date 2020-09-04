@@ -1,8 +1,6 @@
 Objective: To compare prices of same products from different ecommerce websites.
 
-Brief Description: We will try to extract the price of a specific dta from different ecoomerce websites and compare them.
+Brief Description: We will try to extract the price of a specific data from different ecoomerce websites and compare them.
 Once the website with the lower price is determined, a mail will be triggered with the price of the product in different websites and the link of the website with the lowest price.
 
-Tech Stack: Python will be used for scripting.Concepts of web scraping will be used.
-
-
+Tech Stack: Python will be used for scripting. Concepts of web scraping will be used.
