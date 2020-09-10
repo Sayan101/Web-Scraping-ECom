@@ -17,3 +17,6 @@ Flow Breakdown.
   a. The message body should contain the lowest price and the URL.
   b. The price of all the websites can be displayed as well.
   c. Use smtplib
+7. Automate the task
+  a. Create a bat file.
+  b. Schedule it using Windows Task Scheduler.
