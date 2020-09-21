@@ -20,3 +20,6 @@ Flow Breakdown.
 7. Automate the task
   a. Create a bat file.
   b. Schedule it using Windows Task Scheduler.
+8. Try to manage the password so that it does not appear on the main script.
+  a. Use a different yml file  which will hold the password.
+  b. Read the password from the file during runtime.
